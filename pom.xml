@@ -29,8 +29,6 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <username>admin</username>
-            <password>admin123</password>
             <url>http://localhost:8081/nexus/content/repositories/2/</url>
         </repository>
         <snapshotRepository>
